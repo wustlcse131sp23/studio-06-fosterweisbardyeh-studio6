@@ -1,4 +1,4 @@
-package studio6;
+\package studio6;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
